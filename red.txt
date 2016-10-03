@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 hello world
 ggtgrt
 juyjyuj
 uyjuykjuyku
 kuil
+=======
+hello world
+>>>>>>> parent of da6ba4b... 2
